@@ -23,3 +23,6 @@ Learn how to play in https://www.exploratorium.edu/explore/puzzles/tictactoe
 - Javascript
 
 It was deployed in netlify.
+
+## Page look
+![Tic tac toe Page](https://github.com/vitorpereira26r/tic-tac-toe-web/public/tic-tac-toe.png)
